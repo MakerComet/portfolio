@@ -2,7 +2,7 @@
 
 **Unity 6 WebGL Experience by MakerComet**
 
-🎮 **[Play Experience](https://unreality3d.com/MakerComet/portfolio/)**
+🎮 **[Play Experience](https://unreality3d.com/makercomet/portfolio/)**
 
 ---
 
